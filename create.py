@@ -5,6 +5,8 @@
 #
 # Zach Dodds   dodds@cs.hmc.edu
 # updated for SIGCSE 3/9/07
+# update for Carlos Cardenas UNI (Peru)
+# GPL 3.0
 #
 
 import serial
