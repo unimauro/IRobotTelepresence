@@ -1,3 +1,10 @@
+######
+#
+# Carlos Cardenas cardenas@cardenas.pe
+# 2008
+# little lines in GPL 3.0
+#
+#######
 import os
 import create
 import time
